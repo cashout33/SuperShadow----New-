@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta name="viewport" content="width=1280, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <title>404 | SuperShadow</title>
+</head>
+
+<body>
+  <div class="navbar">
+    <a href="/">Home</a>
+    <a href="/games">Games</a>
+    <a href="/apps">Apps</a>
+    <a href="/search">Search</a>
+    <a href="/settings">Settings</a>
+  </div>
+
+  <div class="content centered">
+    <h1>404 Error</h1>
+    <p>Uh oh, it seems like we could not find this page!</p>
+  </div>
+
+  <script src="/assets/js/main.js" type="module"></script>
+
+  <script>
+    if (window.top !== window.self) {
+      document.querySelector('.navbar').remove();
+    }
+  </script>
+</body>
+
+</html>

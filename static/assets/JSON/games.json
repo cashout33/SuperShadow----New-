@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Google Feud",
+        "thumb": "/assets/games/images/googlefeud.webp",
+        "url": "/assets/games/googlefeud/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Slope",
+        "thumb": "/assets/games/images/slope.jpg",
+        "url": "/assets/games/slope/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Bit Life",
+        "thumb": "/assets/games/images/bitlife.png",
+        "url": "/assets/games/bitlife/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Chrome Dinosuar",
+        "thumb": "/assets/games/images/chrome-dino.png",
+        "url": "/assets/games/chrome-dino/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Cookie Clicker",
+        "thumb": "/assets/games/images/cookie-clicker.png",
+        "url": "/assets/games/cookie-clicker/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Drift Boss",
+        "thumb": "/assets/games/images/drift-boss.jpg",
+        "url": "/assets/games/drift-boss/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Monkey Mart",
+        "thumb": "/assets/games/images/monkey-mart.png",
+        "url": "/assets/games/monkey-mart/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Moto X3M",
+        "thumb": "/assets/games/images/moto-x3m.jpg",
+        "url": "/assets/games/moto-x3m/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Run 3",
+        "thumb": "/assets/games/images/run3.jpg",
+        "url": "/assets/games/run3/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Retro Bowl",
+        "thumb": "/assets/games/images/retro-bowl.jpg",
+        "url": "/assets/games/retro-bowl/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Drift Hunters",
+        "thumb": "/assets/games/images/drifthunters.jpg",
+        "url": "/assets/games/drift-hunters/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Flappy Bird",
+        "thumb": "/assets/games/images/flappy-bird.jpg",
+        "url": "/assets/games/flappybird/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Basketball Stars",
+        "thumb": "/assets/games/images/basketball-stars.jpg",
+        "url": "/assets/games/basketball-stars/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Crossy Road",
+        "thumb": "/assets/games/images/crossyroad.jpeg",
+        "url": "/assets/games/crossyroad/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "1v1 LOL",
+        "thumb": "/assets/games/images/1v1-lol.jpg",
+        "url": "/assets/games/1v1lol/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Wordle",
+        "thumb": "/assets/games/images/wordle.png",
+        "url": "/assets/games/wordle/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Minecraft Beta",
+        "thumb": "/assets/games/images/minecraft-1.jpg",
+        "url": "/assets/games/minecraftbeta/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Eggy Car",
+        "thumb": "/assets/games/images/eggycar.png",
+        "url": "/assets/games/eggycar/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Subway Surfers",
+        "thumb": "/assets/games/images/subway-surfer.jpg",
+        "url": "/assets/games/subway-surfers/index.html",
+        "proxied": "false",
+        "desc": ""
+    },
+    {
+        "name": "Subway Surfers New York",
+        "thumb": "/assets/games/images/subway-surf-ny.jpg",
+        "url": "/assets/games/subway-surfers-ny/index.html",
+        "proxied": "false",
+        "desc": ""
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "supershadow",
+  "version": "2.0.0",
+  "description": "Game site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IncorHosting/IncorHosting.git"
+  },
+  "author": "@Russell2259 @Cashout/Incor @Sxri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IncorHosting/IncorHosting/issues"
+  },
+  "homepage": "https://github.com/IncorHosting/IncorHosting#readme",
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.11",
+    "@tomphttp/bare-server-node": "^1.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mime": "^3.0.0"
+  }
+}

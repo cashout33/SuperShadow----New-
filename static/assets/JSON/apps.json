@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Google",
+    "thumb": "/assets/games/images/google.jpg",
+    "url": "https://google.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "Github",
+    "thumb": "/assets/games/images/github.jpg",
+    "url": "https://github.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "VS Code",
+    "thumb": "/assets/games/images/vscode.jpg",
+    "url": "https://vscode.dev",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "YouTube",
+    "thumb": "/assets/games/images/youtube.jpg",
+    "url": "https://youtube.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "Netflix",
+    "thumb": "/assets/games/images/netflix.png",
+    "url": "https://netflix.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "Disney+",
+    "thumb": "/assets/games/images/disney+.png",
+    "url": "https://disneyplus.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "Hulu",
+    "thumb": "/assets/games/images/hulu.jpg",
+    "url": "https://hulu.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "TikTok",
+    "thumb": "/assets/games/images/tiktok.png",
+    "url": "https://tiktok.com",
+    "proxied": "true",
+    "desc": ""
+  },
+  {
+    "name": "Spotify",
+    "thumb": "/assets/games/images/spotify.png",
+    "url": "https://spotify.com",
+    "proxied": "true",
+    "desc": "Listen To Your Favorite Music!"
+  }
+]
